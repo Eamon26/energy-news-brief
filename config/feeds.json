@@ -1,0 +1,13 @@
+{
+  "_note": "Free RSS/Atom feeds. Google News search feeds need no key; add or remove queries freely.",
+  "feeds": [
+    {"name": "Google News: Brent crude", "url": "https://news.google.com/rss/search?q=brent+crude+oil+price&hl=en-GB&gl=GB&ceid=GB:en"},
+    {"name": "Google News: OPEC", "url": "https://news.google.com/rss/search?q=OPEC+output&hl=en-GB&gl=GB&ceid=GB:en"},
+    {"name": "Google News: TTF gas", "url": "https://news.google.com/rss/search?q=TTF+gas+price+Europe&hl=en-GB&gl=GB&ceid=GB:en"},
+    {"name": "Google News: NBP gas UK", "url": "https://news.google.com/rss/search?q=UK+gas+price+NBP&hl=en-GB&gl=GB&ceid=GB:en"},
+    {"name": "Google News: UK power prices", "url": "https://news.google.com/rss/search?q=UK+power+prices+wind+outage&hl=en-GB&gl=GB&ceid=GB:en"},
+    {"name": "Google News: EU carbon", "url": "https://news.google.com/rss/search?q=EU+carbon+price+EUA&hl=en-GB&gl=GB&ceid=GB:en"},
+    {"name": "Google News: LNG", "url": "https://news.google.com/rss/search?q=LNG+cargo+Europe&hl=en-GB&gl=GB&ceid=GB:en"},
+    {"name": "EIA Today in Energy", "url": "https://www.eia.gov/rss/todayinenergy.xml"}
+  ]
+}

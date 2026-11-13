@@ -1,0 +1,123 @@
+[
+  {
+    "title": "Norwegian gas field outage cuts flows to UK",
+    "source": "Sample Wire",
+    "link": "https://example.com/1",
+    "idx": 0,
+    "markets": [
+      "gas",
+      "power"
+    ],
+    "event_type": "supply",
+    "direction": "bullish",
+    "importance": 3,
+    "why": "supply news, read as bullish for gas, power",
+    "watch": "Follow-up reports and the next settlement price",
+    "engine": "rules"
+  },
+  {
+    "title": "OPEC+ agrees to raise output from December",
+    "source": "Sample Wire",
+    "link": "https://example.com/3",
+    "idx": 1,
+    "markets": [
+      "oil"
+    ],
+    "event_type": "supply",
+    "direction": "bearish",
+    "importance": 3,
+    "why": "supply news, read as bearish for oil",
+    "watch": "Follow-up reports and the next settlement price",
+    "engine": "rules"
+  },
+  {
+    "title": "Brent crude jumps as Red Sea tanker attack disrupts shipping",
+    "source": "Sample Wire",
+    "link": "https://example.com/4",
+    "idx": 2,
+    "markets": [
+      "oil"
+    ],
+    "event_type": "geopolitics",
+    "direction": "bullish",
+    "importance": 3,
+    "why": "geopolitics news, read as bullish for oil",
+    "watch": "Follow-up reports and the next settlement price",
+    "engine": "rules"
+  },
+  {
+    "title": "Mild weather forecast weighs on European gas demand",
+    "source": "Sample Wire",
+    "link": "https://example.com/5",
+    "idx": 3,
+    "markets": [
+      "gas"
+    ],
+    "event_type": "weather",
+    "direction": "bearish",
+    "importance": 2,
+    "why": "weather news, read as bearish for gas",
+    "watch": "Follow-up reports and the next settlement price",
+    "engine": "rules"
+  },
+  {
+    "title": "Low wind and nuclear outage tighten UK power supply this week",
+    "source": "Sample Wire",
+    "link": "https://example.com/6",
+    "idx": 4,
+    "markets": [
+      "power"
+    ],
+    "event_type": "supply",
+    "direction": "bullish",
+    "importance": 3,
+    "why": "supply news, read as bullish for power",
+    "watch": "Follow-up reports and the next settlement price",
+    "engine": "rules"
+  },
+  {
+    "title": "EU carbon allowances slide after auction supply increase",
+    "source": "Sample Wire",
+    "link": "https://example.com/7",
+    "idx": 5,
+    "markets": [
+      "carbon"
+    ],
+    "event_type": "policy",
+    "direction": "bearish",
+    "importance": 2,
+    "why": "policy news, read as bearish for carbon",
+    "watch": "Follow-up reports and the next settlement price",
+    "engine": "rules"
+  },
+  {
+    "title": "Libyan oilfield restarts after blockade ends",
+    "source": "Sample Wire",
+    "link": "https://example.com/8",
+    "idx": 6,
+    "markets": [
+      "oil"
+    ],
+    "event_type": "supply",
+    "direction": "bearish",
+    "importance": 3,
+    "why": "supply news, read as bearish for oil",
+    "watch": "Follow-up reports and the next settlement price",
+    "engine": "rules"
+  },
+  {
+    "title": "Old story about LNG terminal opening",
+    "source": "Sample Wire",
+    "link": "https://example.com/10",
+    "idx": 8,
+    "markets": [
+      "gas"
+    ],
+    "event_type": "supply",
+    "direction": "neutral",
+    "importance": 2,
+    "why": "supply news, read as neutral for gas",
+    "watch": "Follow-up reports and the next settlement price",
+    "engine": "rules"
+  }
+]
